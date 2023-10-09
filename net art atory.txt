@@ -7,3 +7,66 @@ Im walking blindly. I stop.
 --> go left
 --> go right
 --> continue straight
+
+
+-------------------LEFT--------------------
+<html>
+<head>
+<title>Not left x_x</title>
+</head>
+<body>
+
+<h1>Oh no! :(</h1>
+
+<h3 <p>Walking with your eyes closed might not be the best idea... <h3>
+
+<h3 <p>You slowly turn left and take one step. As your luck would have it, you fall into a pit of rubber snakes and explode. (Your allergies to rubber finally got the best of you). </h3>
+</p>
+
+<h3 <p>Click the slithering serpents and try again (click the snakes). <h3>
+
+<a href="index.html">
+<img src="snakes.jpg" alt="viper">
+</a>
+
+</body>
+</html>
+
+-------------------RIGHT-------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Whoopsie ;)</title>
+</head>
+<body>
+
+<h1>This is right, just not the right way </h1>
+<p>You turn to your right and shuffle forward a couple of steps. 
+"AAAHHH!", you scream.
+Your old stuffed animal grew to the size of Godzilla and started destroying the city. You watch in despair as your once beloved Fuzzy Wuzzy turns everything to dust.
+
+All because you forgot to walk your fish before you left the house. </p>
+
+</body>
+</html>
+
+
+-----------------STRAIGHT------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>First stop</title>
+</head>
+<body>
+
+<h1>Ah, I see you've made it to round two, good for you. </h1>
+
+<h3 <p>my trains are my trains are your trains are our trains. </h3>
+</p>
+
+</body>
+</html>
+
+
