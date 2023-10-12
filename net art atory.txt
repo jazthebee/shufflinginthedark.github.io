@@ -63,8 +63,7 @@ All because you forgot to walk your fish before you left the house. </p>
 
 <h1>Ah, I see you've made it to round two, good for you. </h1>
 
-<h3 <p>my trains are my trains are your trains are our trains. </h3>
-</p>
+<p>my trains are my trains are your trains are our trains.</p>
 
 </body>
 </html>
