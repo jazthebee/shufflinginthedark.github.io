@@ -10,6 +10,7 @@ Im walking blindly. I stop.
 
 
 -------------------LEFT--------------------
+<!DOCTYPE html>
 <html>
 <head>
 <title>Not left x_x</title>
@@ -18,12 +19,14 @@ Im walking blindly. I stop.
 
 <h1>Oh no! :(</h1>
 
-<h3 <p>Walking with your eyes closed might not be the best idea... <h3>
+<p>
+<p style="font-size:160%;"> Walking with your eyes closed might not be the best idea... </p>
 
-<h3 <p>You slowly turn left and take one step. As your luck would have it, you fall into a pit of rubber snakes and explode. (Your allergies to rubber finally got the best of you). </h3>
-</p>
+<p>
+<p style="font-size:160%;"> You slowly turn left and take one step. As your luck would have it, you fall into a pit of rubber snakes and explode. (Your allergies to rubber finally got the best of you).</p>
 
-<h3 <p>Click the slithering serpents and try again (click the snakes). <h3>
+<p>
+<p style="font-size:160%;"> Click the slithering serpents and try again (click the snakes).</p>
 
 <a href="index.html">
 <img src="snakes.jpg" alt="viper">
@@ -37,20 +40,31 @@ Im walking blindly. I stop.
 <!DOCTYPE html>
 <html>
 <head>
-<title>Whoopsie ;)</title>
+<title>Not right ;)</title>
 </head>
 <body>
 
 <h1>This is right, just not the right way </h1>
-<p>You turn to your right and shuffle forward a couple of steps. 
-"AAAHHH!", you scream.
-Your old stuffed animal grew to the size of Godzilla and started destroying the city. You watch in despair as your once beloved Fuzzy Wuzzy turns everything to dust.
 
-All because you forgot to walk your fish before you left the house. </p>
+<p>
+<p style="font-size:160%;"> Walking with your eyes closed might not be the best idea... 
+</p>
+
+<p style="font-size:160%;"> You turn to your right and shuffle forward a couple of steps. </p>
+ 
+
+<p style="font-size:160%;"> <a href="index.html"> "AAAHHH!", </a> you scream.
+Your old stuffed animal grew to the size of Godzilla and started destroying the city. You watch in despair as your once beloved Fuzzy Wuzzy turns everything to dust.</p>
+
+<p> 
+<p style="font-size:160%;"> All because you forgot to walk your fish before you left the house. (smh). Your scream will take you back to try one more time. </p>
+
+
+<img src="demo.jpg" alt="demostuffy" width="600">
+
 
 </body>
 </html>
-
 
 -----------------STRAIGHT------------------
 
