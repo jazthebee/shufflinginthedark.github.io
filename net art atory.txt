@@ -1,13 +1,28 @@
 Net art story (ask abt black background)
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Round One</title>
+</head>
+<body>
 
-It's dark.
+<h1 style="color: Black;">it's dark.</h1>
+<p>
+<p style="font-size:160%;"> You're walking blindly. You stop.
+</p>
 
-Im walking blindly. I stop.
---> go left
---> go right
---> continue straight
+<p> 
+<p style="font-size:130%;"> <a href="1left.html"> --> go left?</a>
 
+<p> 
+<p style="font-size:130%;"> <a href="3straight.html"> --> continue straight?</a>
+
+<p> 
+<p style="font-size:130%;"> <a href="2right.html"> --> go right?</a>
+
+</body>
+</html>
 
 -------------------LEFT--------------------
 <!DOCTYPE html>
