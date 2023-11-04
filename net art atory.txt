@@ -144,18 +144,19 @@ Your old stuffed animal grew to the size of Godzilla and started destroying the 
 <!DOCTYPE html>
 <html>
 <head>
-<title>The doom of burgers</title>
+<title>Ding Ding Ding</title>
 </head>
 <body>
 
-<h1>A MONSTER BURGER!!</h1>
+<h1>A wonderful choice indeed.</h1>
 <p>
-A wonderful choice indeed
+Lobster rolls are actually one of your favorite dishes, this is a fine choice. You buy your lobster roll (with your eyes still closed) and smile with joy. It smells so good and your mouth waters thinking about how good it's going to be, but you have to wait until you get home to eat it.
+<img src="lobroll.jpg" alt="lobsterrrr">
+
 </p>
 
 </body>
 </html>
-
 
 -------------------STEAK-------------------
 
