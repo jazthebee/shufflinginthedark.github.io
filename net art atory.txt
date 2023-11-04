@@ -97,4 +97,94 @@ Your old stuffed animal grew to the size of Godzilla and started destroying the 
 </body>
 </html>
 
+------------------BURGERS------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>The doom of burgers</title>
+</head>
+<body>
+
+<h1>A MONSTER BURGER!!</h1>
+<p>
+<p style="font-size:160%;"> It seems you've forgotten today was Monster Burger day, how unfortunate. 
+</p>
+<img src="monburg.jpg" alt="monburgconcept">
+<p style="font-size:160%;"> You buy a burger but something's off, the burger's ALIVE. It begins chomping at you and devours you whole. Oh how the turns have tabled.
+
+</body>
+</html>
+
+
+------------------HOTDOGS------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>How could you forget?</title>
+</head>
+<body>
+
+<h1>How could you forget??</h1>
+<p>YOU HATE HOT DOGS!! WHY WOULD YOU GO TO THE HOT DOGS????
+</p>
+<img src="hotdoge.jpg" alt="nastyhotdogs">
+</body>
+</html>
+
+
+------------------LOBSTER------------------
+
+-this will be the right pathway
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>The doom of burgers</title>
+</head>
+<body>
+
+<h1>A MONSTER BURGER!!</h1>
+<p>
+A wonderful choice indeed
+</p>
+
+</body>
+</html>
+
+
+-------------------STEAK-------------------
+
+- fun fact: you actually don't like steak but since you chose to follow the steak scent you're committed (and that's how I wrote the story). 
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>The doom of burgers</title>
+</head>
+<body>
+
+<h1>A MONSTER BURGER!!</h1>
+<p>my trains are my trains are your trains are our trains.</p>
+
+</body>
+</html>
+
+
+-------------------CREPES------------------
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>The doom of burgers</title>
+</head>
+<body>
+
+<h1>A MONSTER BURGER!!</h1>
+<p>my trains are my trains are your trains are our trains.</p>
+
+</body>
+</html>
+
 
