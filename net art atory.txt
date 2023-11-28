@@ -113,6 +113,8 @@ Your old stuffed animal grew to the size of Godzilla and started destroying the 
 <img src="monburg.jpg" alt="monburgconcept">
 <p style="font-size:160%;"> You buy a burger but something's off, the burger's ALIVE. It begins chomping at you and devours you whole. Oh how the turns have tabled.
 
+<p style="font-size:160%;"> <a href="3straight.html"> Try again. </a>
+
 </body>
 </html>
 
@@ -132,6 +134,9 @@ Your old stuffed animal grew to the size of Godzilla and started destroying the 
 </p>
 <p style="font-size:160%;"> Not only are they nasty, they give you the bubbly! Now you have to face the consequences and explode.
 <img src="hotdoge.jpg" alt="nastyhotdogs">
+
+<p style="font-size:160%;"> <a href="3straight.html"> Try again. </a>
+
 </body>
 </html>
 
@@ -172,6 +177,8 @@ Lobster rolls are actually one of your favorite dishes, this is a fine choice. Y
 <h1>A MONSTER BURGER!!</h1>
 <p>my trains are my trains are your trains are our trains.</p>
 
+<p style="font-size:160%;"> <a href="3straight.html"> Try again. </a>
+
 </body>
 </html>
 
@@ -187,6 +194,8 @@ Lobster rolls are actually one of your favorite dishes, this is a fine choice. Y
 
 <h1>A MONSTER BURGER!!</h1>
 <p>my trains are my trains are your trains are our trains.</p>
+
+<p style="font-size:160%;"> <a href="3straight.html"> Try again. </a>
 
 </body>
 </html>
