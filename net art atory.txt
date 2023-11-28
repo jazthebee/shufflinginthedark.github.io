@@ -170,14 +170,23 @@ Lobster rolls are actually one of your favorite dishes, this is a fine choice. Y
 <!DOCTYPE html>
 <html>
 <head>
-<title>The doom of burgers</title>
+<title>What's the big idea?</title>
 </head>
 <body>
 
-<h1>A MONSTER BURGER!!</h1>
-<p>my trains are my trains are your trains are our trains.</p>
-
+<h1>So that's how you feel...</h1>
+<p>
+<p style="font-size:160%;"> You must think this is a game...YOU HATE STEAK AS WELL! Has walking in the dark made you forget the things steak has done to you? Similar to hotdogs, they give you the bubbly, but they don't make you explode, oh no no no that'd be too easy. 
+<p>
+<p style="font-size:160%;"> Before you even get to purchase the steak the person working at the stand puts you in a genjutsu; forever crying as you eat steak.
+ 
 <p style="font-size:160%;"> <a href="3straight.html"> Try again. </a>
+
+<p>
+<img src="staek.jpg" alt="nastysteak" width="400"> <img src="gag.gif" alt="schmidttgag" width="600">
+
+
+</p>
 
 </body>
 </html>
@@ -188,14 +197,17 @@ Lobster rolls are actually one of your favorite dishes, this is a fine choice. Y
 <!DOCTYPE html>
 <html>
 <head>
-<title>The doom of burgers</title>
+<title>No crepes for you</title>
 </head>
 <body>
 
-<h1>A MONSTER BURGER!!</h1>
-<p>my trains are my trains are your trains are our trains.</p>
+<h1>So close, yet so far</h1>
+<p>
+<p style="font-size:160%;"> As much as you love crepes and have no allergies to them, you made a pact with your sibling to get a crepe for them every time you got one. Unfortunately, you don't have enough money for two crepes. So sad.</p>
 
 <p style="font-size:160%;"> <a href="3straight.html"> Try again. </a>
+
+<img src="crepe.jpg" alt="sadcrepe">
 
 </body>
 </html>
